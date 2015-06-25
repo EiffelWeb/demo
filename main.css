@@ -68,3 +68,28 @@ h2 {
   font-weight: 400;
   line-height: 2.5;
 }
+
+.ReactCodeMirror, .CodeMirror, .CodeMirror-scroll {
+  height: 100%;
+  width: 100%;
+}
+
+#reactTarget {
+  height: 100vh;
+}
+
+.eiffel-tab {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+
+.eiffel-sidebar {
+  width: 300px;
+}
+
+.eiffel-statusbar {
+  height: 100px;
+}
+
+
